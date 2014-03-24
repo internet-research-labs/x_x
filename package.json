@@ -1,0 +1,22 @@
+{
+  "name": "x_x",
+  "version": "0.0.0",
+  "description": "x_x",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/internet-research-labs/x_x.git"
+  },
+  "keywords": [
+    "x_x"
+  ],
+  "author": "Matt Owen <matt@planwork.us>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/internet-research-labs/x_x/issues"
+  },
+  "homepage": "https://github.com/internet-research-labs/x_x"
+}
