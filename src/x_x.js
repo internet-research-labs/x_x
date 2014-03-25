@@ -2,7 +2,7 @@
 var colors = require('colors');
 
 // ...
-var highlightColors = [ 'red', 'yellow', 'green', 'blue' ];
+var highlightColors = [ 'red', 'yellow', 'green', 'cyan', 'magenta', 'grey' ];
 var eyes = [ '0', 'O', 'x', '-', '^' ];
 
 
@@ -10,9 +10,9 @@ var eyes = [ '0', 'O', 'x', '-', '^' ];
   var timeoutId = undefined;
   var loop = function () {
     displayFace();
-    timeoutId = setTimeout(loop, 60);
+    timeoutId = setTimeout(loop, 100);
   };
-  timeoutId = setTimeout(loop, 60);
+  loop();
 }());
 
 
@@ -32,8 +32,7 @@ function displayFace () {
   var highlightColor = select(highlightColors);
   var str = (leftEye + '_' + rightEye)[highlightColor];
   process.stdout.write("\033[s");
-  process.stdout.write("\r\n");
-  process.stdout.write("\033[1A");
+  process.stdout.write("\033[4D");
   process.stdout.write(str + ' ');
   process.stdout.write("\033[u");
 }
