@@ -6,27 +6,12 @@
 
 # UNLICENSE
 
-This is free and unencumbered software released into the public domain.
+This is not to be disturbed, free software is released into the public domain.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+In the form of source code or binary that, for what purpose, by any means and commercial or non-commercial, free, everyone, to publish used as either compile in copy, compilation, sale, distribution, software, I will change.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Copyright Act, devote the attention of software copyright necessary any and all of the public domain in the recognition of jurisdiction the author or creator of this software. On a large scale, for the benefit of the public, at the expense of the heir and successor of us, we make this promise. I believe copyright law, under this dedication, we are right now and in the future of all of this software forever obvious act of abandonment.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+It is not intended that the guarantee of any kind for a particular purpose, with the Fitness, is provided explicitly or implied, for compatibility "as is", non- infringement, software merchantability it is not intended to be limited to guarantee. It is the responsibility of, such as, in any case, it is the truth, illegal contract, or the use of software and software, other claims in the course of other transactions, if you author or the occurrence of damages, or related to the OUT of the other tort litigation, and.
 
-For more information, please refer to <http://unlicense.org/>
+For more information, please refer to http://unlicense.org/.
