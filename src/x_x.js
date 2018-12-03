@@ -1,20 +1,14 @@
+/**
+ * I don't know what you'd do with this, but we'll keep it around for old time's sake
+ */
+
+
 // Requirements
 var colors = require('colors');
 
 // ...
 var highlightColors = [ 'red', 'yellow', 'green', 'cyan', 'magenta', 'grey' ];
 var eyes = [ '0', 'O', 'x', '-', '^' ];
-
-
-(function () {
-  var timeoutId = undefined;
-  var loop = function () {
-    displayFace();
-    timeoutId = setTimeout(loop, 100);
-  };
-  loop();
-}());
-
 
 
 /**

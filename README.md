@@ -1,8 +1,19 @@
 # x\_x
 
-## Install
+Forgot I had this... so I'll just use it as a lib for some person projects.
 
-`npm install x_x`
+
+# Change Log
+
+### 1.0.0
+* Removed automatic background running
+* Kept `display_face` function
+* Moving some helper functions here -- used by svv.im, razorbla.de, untitled project
+
+### 0.0.1
+* Outputs randomly generated face
+* :seedling:
+
 
 # UNLICENSE
 

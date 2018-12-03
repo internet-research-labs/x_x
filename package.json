@@ -1,14 +1,9 @@
 {
   "name": "x_x",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "x_x",
   "main": "src/x_x.js",
-  "dependencies" : {
-    "colors": "*"
-  },
   "scripts": {
-    "start": "node src/x_x.js",
-    "test": "npm test"
   },
   "repository": {
     "type": "git",
@@ -17,8 +12,8 @@
   "keywords": [
     "x_x"
   ],
-  "author": "Matt Owen <matt@planwork.us>",
-  "license": "UNLICENSED",
+  "author": "x_x",
+  "license": "UNLICENSE",
   "bugs": {
     "url": "https://github.com/internet-research-labs/x_x/issues"
   },
