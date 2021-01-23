@@ -25,8 +25,7 @@ function displayFace () {
   var leftEye = select(eyes), rightEye = select(eyes);
   var highlightColor = select(highlightColors);
   var str = (leftEye + '_' + rightEye)[highlightColor];
-  process.stdout.write("\033[s");
-  process.stdout.write("\033[4D");
-  process.stdout.write(str + ' ');
-  process.stdout.write("\033[u");
+  console.log(str);
 }
+
+exports.x_x = displayFace;
